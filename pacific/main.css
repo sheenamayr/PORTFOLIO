@@ -1,0 +1,80 @@
+
+.title{
+    background-color:#002171;
+    color: #FFFFFF;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 72px;
+    text-align: center;
+    padding-top: 1px;
+    background-size: contain;
+    }
+    
+    .navigations{
+        background: color #83a9ef;
+        text-align: center;
+    }
+    
+     .hero{
+        background-image: url("./Images/pexels-vincent-gerbouin-1167021.jpg");
+        min-height: 500px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;   
+
+     }
+     .background{
+        background: linear-gradient(to bottom, #002171 0%, #1976D2 50%, #BBDEFB 100%);
+        background-attachment: fixed;
+     }
+     
+     .wrapper {
+        padding: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        min-width: 960px;
+        max-width: 2048px;
+        width: 80%;
+        box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    }
+
+    .body {
+        
+        background-attachment: fixed;
+    }
+
+    .cottagehero{
+        background-image: url("/pacific/images/pexels-asad-photo-maldives-1591373.jpg");
+        min-height: 500px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;   
+    }
+    .main {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    .nav a {
+        text-decoration: none;
+        
+    }
+    .nav {
+        padding: 1px;
+        text-align: center;
+        background-color: transparent;
+    }
+
+    .h1 {
+        line-height: unset;
+        padding-top: 0.5em;
+        text-align: center;
+    }  
+
+    .h2 {
+        text-align: center;
+    }
+
+    .footer {
+        padding: 1em;
+    }
